@@ -1,0 +1,18 @@
+{
+  "format": "astrbot-meme-pack",
+  "format_version": 2,
+  "export_mode": "share",
+  "created_at": "2026-10-25T17:34:19.491184+00:00",
+  "pack": {
+    "id": "steins-gate-0",
+    "schema_version": 1
+  },
+  "features": {
+    "semantic_metadata": true,
+    "vectors": false
+  },
+  "compatibility": {
+    "manifest_and_memes_at_archive_root": true,
+    "legacy_nonsemantic_import_supported": true
+  }
+}
